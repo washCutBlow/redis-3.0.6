@@ -31,7 +31,7 @@
 #ifndef __ADLIST_H__
 #define __ADLIST_H__
 
-/* Node, List, and Iterator are the only data structures used currently. */
+/* Node, List, and Iterator are the only data structures used currently.       */
 
 typedef struct listNode {
     struct listNode *prev;
